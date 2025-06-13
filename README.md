@@ -30,4 +30,4 @@ A simple and professional Library Management System built using ASP.NET Core MVC
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Dharsanbala/library-management-system.git
+   git clone https://github.com/dharsanbala/LibraryManagementSystem.git
